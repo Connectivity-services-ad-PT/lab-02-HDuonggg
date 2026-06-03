@@ -1,14 +1,29 @@
+# Biên bản đàm phán hợp đồng API
 # Biên bản đàm phán hợp đồng API - Phân hệ Analytics (A5)
 
+- Cặp đàm phán:
+- Product: A / B
+- Provider:
+- Consumer:
 - Cặp đàm phán: Pair 06, 07, 08, 09 (Nhóm A5 đàm phán với A1, A2, A6, A3)
 - Product: Product A
 - Provider: Analytics (A5)
 - Consumer: IoT (A1), Camera (A2), Core Business (A6), Access Gate (A3)
 - Phiên: v1.0
+- Ngày:
 - Ngày: 2026-05-27
 
 ---
 
+## Issue #1
+
+- Raised by: Consumer / Provider
+- Endpoint:
+- Concern:
+- Proposal:
+- Resolution: Accepted / Rejected / Modified
+- Rationale:
+- Impact:
 ## Issue #1 (Đàm phán với Pair 06 - IoT)
 - Raised by: Provider (Analytics)
 - Endpoint: Topic `iot.telemetry.ingested`
@@ -20,6 +35,15 @@
 
 ---
 
+## Issue #2
+
+- Raised by: Consumer / Provider
+- Endpoint:
+- Concern:
+- Proposal:
+- Resolution: Accepted / Rejected / Modified
+- Rationale:
+- Impact:
 ## Issue #2 (Đàm phán với Pair 06 - IoT)
 - Raised by: Provider (Analytics)
 - Endpoint: Topic `iot.telemetry.ingested`
@@ -31,6 +55,15 @@
 
 ---
 
+## Issue #3
+
+- Raised by: Consumer / Provider
+- Endpoint:
+- Concern:
+- Proposal:
+- Resolution: Accepted / Rejected / Modified
+- Rationale:
+- Impact:
 ## Issue #3 (Đàm phán chung cho cả 4 Pair)
 - Raised by: Provider (Analytics)
 - Endpoint: Tất cả các Event
@@ -42,6 +75,15 @@
 
 ---
 
+## Issue #4
+
+- Raised by: Consumer / Provider
+- Endpoint:
+- Concern:
+- Proposal:
+- Resolution: Accepted / Rejected / Modified
+- Rationale:
+- Impact:
 ## Issue #4 (Đàm phán với Pair 09 - Access Gate)
 - Raised by: Provider (Analytics)
 - Endpoint: Topic `gate.access.logged`
@@ -53,6 +95,15 @@
 
 ---
 
+## Issue #5
+
+- Raised by: Consumer / Provider
+- Endpoint:
+- Concern:
+- Proposal:
+- Resolution: Accepted / Rejected / Modified
+- Rationale:
+- Impact:
 ## Issue #5 (Đàm phán với Pair 07 - Camera)
 - Raised by: Consumer (Camera - A2)
 - Endpoint: Topic `camera.motion.detected`
@@ -64,6 +115,15 @@
 
 ---
 
+## Issue #6
+
+- Raised by: Consumer / Provider
+- Endpoint:
+- Concern:
+- Proposal:
+- Resolution: Accepted / Rejected / Modified
+- Rationale:
+- Impact:
 ## Issue #6 (Đàm phán với Pair 08 - Core Business)
 - Raised by: Provider (Analytics)
 - Endpoint: Topic `core.alert.published`
@@ -77,6 +137,18 @@
 
 # Chốt hợp đồng v1.0
 
+Provider sign-off:  
+Consumer sign-off:  
+Witness (GV/TA):    
+Date:               
+
+---
+
+## Ghi chú warning nếu Spectral còn cảnh báo
+
+| Warning | Lý do chấp nhận tạm thời | Kế hoạch sửa |
+|---|---|---|
+|  |  |  |
 Provider sign-off: Nguyễn Hữu Tuấn Minh (Leader A5)  
 Consumer sign-off: Leader các nhóm A1, A2, A3, A6 (Đã xác nhận qua group chung)    
 Date: 2026-05-27
